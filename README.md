@@ -172,13 +172,13 @@ python dashboard.py
 ## ICMP Flood Test
 
 ```bash
-ping 127.0.0.1 -n 100
+ping x.x.x.x -n 100
 ```
 
 ## Port Scan Test
 
 ```bash
-nmap 127.0.0.1
+nmap x.x.x.x (ip address)
 ```
 
 ---
